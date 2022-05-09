@@ -4,6 +4,7 @@
 - Seminars
 - Visualization Project
 ### [Lectures](</Lectures/>)
+At least the following topics are covered: 
 - General Overview of the Visual Data Analytics 
 - Information Visualization 
 - Perception, cognition and attention
