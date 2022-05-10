@@ -4,7 +4,7 @@
 - [Seminars:](/Seminars/)
 - [Visualization Project:](</VDA Project/Breast Cancer Analysis Using Visualizations_ A sweden Case Study Final Report.pdf>) 
 	- The breast cancer datasets collected from the [National Quality Register for Breast Cancer (NKBC)](https://statistik.incanet.se/brostcancer/)
-	- Breast Cancer Analysis Using Visualizations_ A sweden Case Study Final Report.pdf
+	- 
 ### [Lectures](</Lectures/>)
 At least the following topics are covered: 
 - General Overview of the Visual Data Analytics 
