@@ -3,7 +3,7 @@
 ### Projects 
 - Seminars
 - Visualization Project: 
-	- Datasets taken from 
+	- Datasets taken from the 
 ### [Lectures](</Lectures/>)
 At least the following topics are covered: 
 - General Overview of the Visual Data Analytics 
