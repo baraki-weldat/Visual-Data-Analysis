@@ -6,6 +6,8 @@
 	- The breast cancer datasets collected from the [National Quality Register for Breast Cancer (NKBC)](https://statistik.incanet.se/brostcancer/)
 	- Sample Visualizations Rendered by the [TIBCO Spotfire Business Analytics and Visualization](https://www.tibco.com/products/tibco-spotfire): 
 	![Number of Cancer Patients based on the Categorical Biological Subtypes](</VDA Project/Samples/BiologicalSubtypes.png>)
+	![Individual Care Plan and Contact Nurse distribution from the year 2015 to 2019 in Sweden Breast Cancer Registers](</VDA Project/Samples/Individual Plan.png>)
+	![Significance of Featueres of Breast Cancer of Patients.](</VDA Project/Samples/SignificantFeaturesofBreastCancer.png>)
 ### [Lectures](</Lectures/>)
 At least the following topics are covered: 
 - General Overview of the Visual Data Analytics 
