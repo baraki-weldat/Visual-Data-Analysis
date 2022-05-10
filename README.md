@@ -1,7 +1,7 @@
 # Visual Data Analysis
  Visual Data Analysis focuses on visualization and interaction techniques used to support decision-makers find patterns, and trends or to extract new knowledge from data. The main focus within visual data analytics is put on information visualization, visual analytics, human perception, and cognition as well as human-computer interaction. 
 ### Projects 
-- [Seminars:](/Seminars/): The main theme of the selected papers deals with the health data how patients have effectively cured with the help of AI-Powered analysis with narrative story-telling to incorporate the psychological and social aspects[3] with martini glass structure, analyzing health care data to mine patterns and associations of different of data(e.g. diseases)[2], partitioning health data analysis and visualization into manageable distinct layers[4] which introduces ease and flexibility and simulating and visualizing disease progression pathways[5].
+1. [Seminars:](/Seminars/): The main theme of the selected papers deals with the health data how patients have effectively cured with the help of AI-Powered analysis with narrative story-telling to incorporate the psychological and social aspects[3] with martini glass structure, analyzing health care data to mine patterns and associations of different of data(e.g. diseases)[2], partitioning health data analysis and visualization into manageable distinct layers[4] which introduces ease and flexibility and simulating and visualizing disease progression pathways[5].
 
 The main contribution of these visualization projects and researches will leap forward to the health
 sector in multiple dimensions. The articles generally contributed on different aspects of the health sector are listed as follows:
@@ -13,7 +13,7 @@ sector in multiple dimensions. The articles generally contributed on different a
 
 Generally, these articles contribute a lot to the health sector of visual data analysis on quantifying and communicating the difficult parts of psychological and social aspects[3], demonstrating how health care big data[2] is handled and analyzed, developing customizable workflow[4], and visualizing disease
 progression[5].
-- [Breast Cancer Analysis using Visualizatiosn in Case of Swedish National Auality Register:](</VDA Project/Breast Cancer Analysis Using Visualizations_ A sweden Case Study Final Report.pdf>) 
+2. [Breast Cancer Analysis using Visualizatiosn in Case of Swedish National Auality Register:](</VDA Project/Breast Cancer Analysis Using Visualizations_ A sweden Case Study Final Report.pdf>) 
 	- The breast cancer datasets collected from the [National Quality Register for Breast Cancer (NKBC)](https://statistik.incanet.se/brostcancer/)
 	- Sample Visualizations Rendered by the [TIBCO Spotfire Business Analytics and Visualization](https://www.tibco.com/products/tibco-spotfire): 
 	![Number of Cancer Patients based on the Categorical Biological Subtypes](</VDA Project/Samples/BiologicalSubtypes.png>)
