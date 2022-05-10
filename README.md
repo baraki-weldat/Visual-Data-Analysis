@@ -3,8 +3,7 @@
 ### Projects 
 - [Seminars:]()
 - [Visualization Project:]() 
-	- Datasets taken from the [National Quality Register for Breast Cancer (NKBC)
-](https://statistik.incanet.se/brostcancer/)
+	- Datasets taken from the [National Quality Register for Breast Cancer (NKBC)](https://statistik.incanet.se/brostcancer/)
 ### [Lectures](</Lectures/>)
 At least the following topics are covered: 
 - General Overview of the Visual Data Analytics 
@@ -19,9 +18,9 @@ At least the following topics are covered:
 - Books 
 	- Ware, C. (2010). [Visual Thinking for Design.](</References/Visual Thinking for Design - Colin Ware.pdf>) Morgan Kaufmann series in interactive technologies, Elsevier Science. 
 	- Barnum, C.M. (2010). [Usability Testing Essentials: Ready, Set... Test!](<https://www.elsevier.com/books/usability-testing-essentials-ready-set-test/barnum/978-0-12-816942-1>) Elsevier Science. 
-	- Munzner, T. (2014). [Visualization Design and Analysis.](</References/Visualization Design and Analysis.pdf>) CRC Press. 
+	- Munzner, T. (2014). [Visualization Design and Analysis.](<https://www.taylorfrancis.com/books/mono/10.1201/b17511/visualization-analysis-design-tamara-munzner>) CRC Press. 
 	- Ward, M. (2015). [Interactive Data Visualization: Foundations, Techniques and Applications](https://www.amazon.com/Interactive-Data-Visualization-Foundations-Applications/dp/1482257378). CRC Press. 
-- [Articles On VDA](</Seminars/Journal Articles/>)
+- Articles On VDA
 	- Y. Ahn and Y. -R. Lin, "FairSight: Visual Analytics for Fairness in Decision Making," in IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 1, pp. 1086-1095, Jan. 2020, doi: 10.1109/TVCG.2019.2934262.
 	- C. K. Leung, Y. Zhang, C. S. H. Hoi, J. Souza and B. H. Wodi, "Big Data Analysis and Services: Visualization on Smart Data to Support Healthcare Analytics," 2019 International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData), 2019, pp. 1261-1268, doi: 10.1109/iThings/GreenCom/CPSCom/SmartData.2019.00212.
 	- Behrisch, M, Blumenschein, M, Kim, NW, Shao, L, El-Assady, M, Fuchs, J, Seebacher, D, Diehl, A, Brandes, U, Pfister, H, Schreck, T, Weiskopf, D & Keim, DA 2018, 'Quality Metrics for Information Visualization', Computer Graphics Forum, vol. 37, no. 3, pp. 625-662. https://doi.org/10.1111/cgf.13446
