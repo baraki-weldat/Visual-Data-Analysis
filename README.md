@@ -1,9 +1,10 @@
 # Visual Data Analysis
  Visual Data Analysis focuses on visualization and interaction techniques used to support decision-makers find patterns, and trends or to extract new knowledge from data. The main focus within visual data analytics is put on information visualization, visual analytics, human perception, and cognition as well as human-computer interaction. 
 ### Projects 
-- [Seminars:]()
-- [Visualization Project:]() 
-	- Datasets taken from the [National Quality Register for Breast Cancer (NKBC)](https://statistik.incanet.se/brostcancer/)
+- [Seminars:](/Seminars/)
+- [Visualization Project:](</VDA Project/Breast Cancer Analysis Using Visualizations_ A sweden Case Study Final Report.pdf>) 
+	- The breast cancer datasets collected from the [National Quality Register for Breast Cancer (NKBC)](https://statistik.incanet.se/brostcancer/)
+	- Breast Cancer Analysis Using Visualizations_ A sweden Case Study Final Report.pdf
 ### [Lectures](</Lectures/>)
 At least the following topics are covered: 
 - General Overview of the Visual Data Analytics 
