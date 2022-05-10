@@ -22,7 +22,7 @@ The full seminar report is available in [Seminar Report](/Seminars/)
 	![Number of Cancer Patients based on the Categorical Biological Subtypes](</VDA Project/Samples/BiologicalSubtypes.png>)
 	![Individual Care Plan and Contact Nurse distribution from the year 2015 to 2019 in Sweden Breast Cancer Registers](</VDA Project/Samples/Individual Plan.png>)
 	![Significance of Featueres of Breast Cancer of Patients.](</VDA Project/Samples/SignificantFeaturesofBreastCancer.png>)
-### [Lectures](</Lectures/>)
+### [Lecture Notes](</Lectures/>)
 At least the following topics are covered: 
 - General Overview of the Visual Data Analytics 
 - Information Visualization 
